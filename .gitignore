@@ -79,3 +79,6 @@ typings/
 
 # config for firebase
 src/firebase/config.js
+
+# package-lock.json
+package-lock.json
